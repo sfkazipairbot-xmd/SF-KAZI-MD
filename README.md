@@ -62,7 +62,7 @@
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
 <a href="https://github.com/sfkazipairbot-xmd/SF-KAZI-MD/fork">
-  <img title="SF-KAZI-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+  <img title="SF-KAZI-MD" src="https://img.shields.io/badge/FORK-SFKAZI%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
